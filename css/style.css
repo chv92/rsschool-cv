@@ -28,7 +28,7 @@ body {
 }
 .my-photo{
     width: 370px;
-    height: 354px;
+    height: 350px;
 }
 .about-me-container{
     padding-left: 90px;
@@ -41,6 +41,10 @@ body {
     margin-right: 40px;
     margin-top: 60px;
     
+}
+.contacts-list {
+list-style: none;
+
 }
 .contacts-title{
     font-size: 22px;
@@ -194,4 +198,14 @@ body {
     font-weight: 700;
     line-height: 24px;
     margin-bottom: 15px;
+}
+footer {
+   margin-top: 30px;
+}
+.logo {
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+    
 }
